@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rahulchands2212/leetcode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/rahulchands2212/leetcode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/rahulchands2212/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
