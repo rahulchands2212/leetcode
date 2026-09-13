@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rahulchands2212/leetcode/tree/master/0007-reverse-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulchands2212/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/rahulchands2212/leetcode/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulchands2212/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
